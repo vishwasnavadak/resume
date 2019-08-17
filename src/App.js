@@ -1,15 +1,16 @@
-import React, { lazy, Component, Suspense } from "react";
-const Resume = lazy(() => import("!babel-loader!mdx-loader!./Resume.md"));
+import React from "react";
 
-class App extends Component {
-  render() {
-    return (
-      <div>
-        <Suspense fallback={<div className="loading">Loading...</div>}>
-          <Resume />
-        </Suspense>
-      </div>
-    );
-  }
-}
+import FrontMatter from "./FrontMatter";
+import Resume, { frontMatter } from "./Resume.md";
+
+const App = () => {
+  console.log(frontMatter);
+  document.title = `${frontMatter.name} | Resume `;
+  return (
+    <div>
+      <FrontMatter {...frontMatter} />
+      <Resume />
+    </div>
+  );
+};
 export default App;

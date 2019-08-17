@@ -1,13 +1,12 @@
 ---
+name: Vishwasa Navada K
 email: navadavishwas@gmail.com
 phone: +91-7259584395
 github: https://github.com/vishwasnavadak
 website: https://vishwas.tech/
 ---
 
-# Vishwasa Navada K
-
-IT professional with 2 years of industry experience in Data Visualization and BI Reporting using Tableau and Jaspersoft and 4 years of freelancing experience in web development using HTML, CSS, JavaScript and PHP. Looking forward to build user friendly and accessible web applications.
+> IT professional with 2 years of industry experience in Data Visualization and BI Reporting using Tableau and Jaspersoft and 4 years of freelancing experience in web development using HTML, CSS, JavaScript and PHP. Looking forward to build user friendly and accessible web applications.
 
 ## Experience:
 
@@ -38,6 +37,8 @@ Build simple single page applications to help company’s operations.
 #### OS and Platforms: Windows, Linux, OSX, AWS(DynamoDB, Lambda, API Gateway), Serverless Framework.
 
 #### Tools and Softwares: MS Office, Photoshop, Google Analytics, Git, Slack, Trello, Postman.
+
+---
 
 ## Education:
 

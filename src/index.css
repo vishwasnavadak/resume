@@ -1,13 +1,17 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
-    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+/* --------------------------------------------------------
+Vishwas Navada's Resume 
+version: 0.1
+license: MIT
+author: Vishwasa Navada K
+email: hi@vishwas.tech
+website: https://vishwas.tech
+----------------------------------------------------------*/
+@import url("https://fonts.googleapis.com/css?family=Titillium+Web:400,600,700,900&display=swap");
+html {
+  font-size: 14px;
+  font-family: "Titillium Web", sans-serif;
 }
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
+hr {
+  border: none;
+  page-break-after: always;
 }
