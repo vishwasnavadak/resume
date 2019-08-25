@@ -63,7 +63,9 @@
   "scripts": {
     "start": "node scripts/start.js",
     "build": "node scripts/build.js",
-    "test": "node scripts/test.js"
+    "test": "node scripts/test.js",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -81,6 +83,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^2.1.1",
     "mdx-loader": "^3.0.2"
   },
   "jest": {
@@ -135,5 +138,22 @@
     "presets": [
       "react-app"
     ]
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishwasnavadak/resume.git"
+  },
+  "keywords": [
+    "resume",
+    "reactjs",
+    "mdx"
+  ],
+  "author": "Vishwasa Navada K",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vishwasnavadak/resume/issues"
+  },
+  "homepage": "http://vishwas.tech/resume/"
 }
