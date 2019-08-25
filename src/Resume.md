@@ -61,6 +61,12 @@ https://github.com/GOOFS/go-goof-Talk
 A web portal connecting all the departments of the college and Accounts section in which staff enter the details of the workshop and conferences that they have conducted or attended and upload the relevant documents for efficient bookkeeping.
 Currently being used by NMAM Institute of Technology, Nitte.
 
+#### Resume Generator using Markdown (React, MDX-loader, HTML, CSS)
+
+React App that takes resume written in Markdown and generates the styled print-ready resume page. Includes minimal theming, icons and custom page breaks for printed copy. Can easily be deployed as github page or to Netlify.
+
+https://github.com/vishwasnavadak/resume
+
 #### Twitter Sentiment Analyzer (PHP, Twitter API, HTML, CSS, Google Charts)
 
 Web application that fetches top tweets from twitter based on the search query (hashtag/username) and categorizes them into positive, negative and neutral tweets.
