@@ -36,6 +36,8 @@ As a freelance web developer, I helped local businesses to get online presence v
 - **OS and Platforms:** Windows, Linux, OSX, AWS(DynamoDB, Lambda, API Gateway), Serverless Framework.
 - **Tools and Softwares:** MS Office, Photoshop, Google Analytics, Git, Slack, Trello, Postman.
 
+---
+
 ## Education
 
 Bachelor of Engineering(CSE) from NMAM Institute of Technology, Nitte, Udupi in 2017
@@ -44,8 +46,6 @@ Bachelor of Engineering(CSE) from NMAM Institute of Technology, Nitte, Udupi in 
 - Volunteered in Technical Fests.
 - Designed and Developed websites for fests and other college activities.
 - Was Chairman of Computer Society of India, NMAMIT Chapter.
-
----
 
 ## Side Projects
 
