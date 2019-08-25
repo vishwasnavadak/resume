@@ -5,10 +5,10 @@ import Resume, { frontMatter } from "./Resume.md";
 const App = () => {
   document.title = `${frontMatter.name} | Resume `;
   return (
-    <div>
+    <React.Fragment>
       <FrontMatter {...frontMatter} />
       <Resume />
-    </div>
+    </React.Fragment>
   );
 };
 export default App;
