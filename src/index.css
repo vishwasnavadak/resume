@@ -17,11 +17,13 @@ body {
   display: flex;
   align-content: center;
   justify-content: center;
+  color: #111111;
 }
 
 h1 {
   text-transform: uppercase;
   font-size: 2.4rem;
+  color: #000000;
   text-align: center;
 }
 h2 {
@@ -30,7 +32,7 @@ h2 {
   text-transform: uppercase;
   margin: 2.5rem 5px 0.5rem 5px;
   padding-bottom: 10px;
-  border-bottom: 1px solid #141414;
+  border-bottom: 1px solid #c2c1bf;
 }
 h3 {
   width: 100%;
@@ -67,6 +69,12 @@ hr {
   border: none;
   page-break-after: always;
 }
+blockquote {
+  margin: 25px 10px;
+}
+blockquote p {
+  font-size: 1.1rem;
+}
 ul {
   list-style: none;
   padding: 0;
@@ -85,7 +93,7 @@ h4:before {
   margin: 0.3rem 0.5rem;
 }
 .resume {
-  padding: 20px 40px;
+  padding: 20px 50px;
   background: white;
   max-width: 800px;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
@@ -95,10 +103,10 @@ h4:before {
   line-height: 1.5rem;
 }
 .contact span {
-  margin: 2px 4px;
+  margin: 2px 5px;
 }
 .contact i {
-  margin: 4px;
+  margin: 5px;
 }
 @media print {
   .resume {
