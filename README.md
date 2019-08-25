@@ -1,68 +1,23 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# 🚀 Resume with Markdown
 
-## Available Scripts
+This is a simple tool that generates a print-ready resume from the data you put in as markdown. Check out the demo [here](https://vishwas.tech/resume/)
+![Resume with Markdown](https://repository-images.githubusercontent.com/201768335/acb96900-c764-11e9-83b6-452bd2d23f47)
 
-In the project directory, you can run:
+## Usage
 
-### `npm start`
+Fork this repo, edit the `Resume.md` file under the folder src. This is built using React, so clone the forked report and run `npm install` to install all dev and prod dependencies.
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Changing the styles
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+CSS is written according to the default markdown elements like headers and lists. The styling is still work in progress, feel free to suggest changes. To insert a page break for the print version, add a `<hr>` tag or markdown notation `---` to the file.
 
-### `npm test`
+## Deployment
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+You can use deploy this as a GitHub page by running `npm run deploy` (provided you have your git credentials configured) which will be deployed at _githubusername.github.io/resume_ (or if you have a custom domain then _vishwas.tech/resume/_ ).
 
-### `npm run build`
+Or you can use sites like Netlify or Zeit to deploy from your Github repo.
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Show ❤️ to
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+1. Font Awesome icons (https://fontawesome.com)
+2. MDX-loader (https://github.com/frontarm/mdx-util/tree/master/packages/mdx-loader)
