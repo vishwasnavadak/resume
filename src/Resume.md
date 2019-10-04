@@ -9,8 +9,10 @@ website: vishwas.tech
 > IT professional with 2 years of industry experience in Data Visualization and BI Reporting using Tableau and Jaspersoft and 4 years of freelancing experience in web development using HTML, CSS, JavaScript and PHP. Looking forward to build user friendly and accessible web applications.
 
 ## Experience
+### Developer, Antstack.io `(Oct 2019 – Present)`
 
-### Systems Engineer, Infosys Ltd. `(June 2017 – Present)`
+
+### Systems Engineer, Infosys Ltd. `(June 2017 – Sept 2019)`
 
 Worked with: MySQL, Tableau, Highcharts, JavaScript, UNIX
 
