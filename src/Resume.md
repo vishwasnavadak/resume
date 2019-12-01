@@ -9,8 +9,10 @@ website: vishwas.tech
 > IT professional with 2 years of industry experience in Data Visualization and BI Reporting using Tableau and Jaspersoft and 4 years of freelancing experience in web development using HTML, CSS, JavaScript and PHP. Looking forward to build user friendly and accessible web applications.
 
 ## Experience
-### Developer, Antstack.io `(Oct 2019 – Present)`
 
+### Member of Technical Staff 2, Antstack Technologies `(Oct 2019 – Present)`
+
+Work on cutting edge technologies like Nextjs, GraphQL and Serverless computing on AWS.
 
 ### Systems Engineer, Infosys Ltd. `(June 2017 – Sept 2019)`
 
@@ -77,7 +79,6 @@ http://demo.webception.in/vishwas/twitter/
 
 ## Other Activities
 
-- An active contributor to Google Maps as Local Guide.
 - An Open Source Enthusiast.
 - I occasionally write on my blog about new technologies, coding, how-tos, travel etc.
 - Gave a talk on Terminal based Chat Application-Goof Talk and benefits of Go Language at “Nitte Open Source Conference 2016”, an international conference conducted by Red Hat and NMAMIT.
